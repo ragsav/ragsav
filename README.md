@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragsav" alt="ragsav" /></a> </p>
 
-- 🔭 I’m currently working on [Jet Admin](https://jet-labs.github.io/documentation)
+- 🔭 I’m currently working on [Jet Admin](https://jet-labs.github.io/jet-admin/)
 
 - 🌱 I’m currently learning **Next JS, Nest JS**
 
-- 👯 I’m looking to collaborate on [Jet Admin](https://jet-labs.github.io/documentation)
+- 👯 I’m looking to collaborate on [Jet Admin](https://jet-labs.github.io/jet-admin/)
 
 - 👨‍💻 All of my projects are available at [https://ragsav.github.io/about/](https://ragsav.github.io/about/)
 
